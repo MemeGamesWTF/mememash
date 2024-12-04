@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1733116623,
+	"version": 1733310383,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -22,6 +22,9 @@
 		"images/sprite14-sheet0.png",
 		"images/sprite15-sheet0.png",
 		"images/sprite16-sheet0.png",
+		"images/sprite17-sheet0.png",
+		"images/sprite18-sheet0.png",
+		"images/tiledbackground.png",
 		"media/let me tell you something.m4a",
 		"media/let me tell you something.ogg",
 		"media/wazup.m4a",
